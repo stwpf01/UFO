@@ -2,15 +2,15 @@
 
 ## Overview of Analysis
 
-The pupose of this analysis was to expand the search to multiple filters instead of just the one on the [UFO Sightings webpage](). Originally it was only possible to search UFO sightings by date; now it is possible to search via City, State, Country, and Shape of the UFO. How the search works will be shown below.
+The pupose of this analysis was to expand the search to multiple filters instead of just the one on the [UFO Sightings webpage](https://github.com/stwpf01/UFO/blob/main/index.html). Originally it was only possible to search UFO sightings by date; now it is possible to search via City, State, Country, and Shape of the UFO. How the search works will be shown below.
 
 ## Results
 
 ### Image Examples
 
-![City]()
+![City](https://github.com/stwpf01/UFO/blob/main/images/City.png)
 
-![Shape]()
+![Shape](https://github.com/stwpf01/UFO/blob/main/images/Shape.png)
 
 ### How To Use
 
